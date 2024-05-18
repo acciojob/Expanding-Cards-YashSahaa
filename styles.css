@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.panel{
+	border-radius:20px;
+	overflow:hidden;
+	position:relative;
+	display:inline-block;
+	width:30px;
+	height:300px;
+}
+img{
+	height:300px;
+}
+.img-text{
+	position:absolute;
+	color:white;
+	bottom:20px;
+	left:10px;
+}
+.active{
+	width:450px;
+}
